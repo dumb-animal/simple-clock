@@ -13,4 +13,5 @@ function setTime() {
 	hoursElement.style.transform = `rotate(${h}deg)`;
 }
 
+setTime();
 let interval = setInterval(setTime, 1000);

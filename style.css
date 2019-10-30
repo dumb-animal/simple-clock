@@ -57,7 +57,7 @@
 	width: 0.7%;
 	bottom: 50%;
 	transform-origin: 50% 100%;
-	transform: rotate(45deg);
+	transform: rotate(0deg);
 	background: #000;
 }
 
@@ -67,7 +67,7 @@
 	width: 1.5%;
 	bottom: 50%;
 	transform-origin: 50% 100%;
-	transform: rotate(90deg);
+	transform: rotate(0deg);
 	background: #000;
 }
 
